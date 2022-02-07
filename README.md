@@ -1,4 +1,4 @@
-# DeepFROST-Remembering-Robert-Frost
+# DeepFROST:Remembering-Robert-Frost
 
 If there was one thing that we humans are collectively proud of that will put some of the best supercomputers and machines to shame, it is Art. Art has no rules, no patterns, no algorithms. It is a pure construct of creativity and randomness arising from the depths of a less understood human consciousness.
 
